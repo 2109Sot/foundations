@@ -1,0 +1,3 @@
+•	https://goo.gl/n74Vv5
+•	Arizona State Land Department, Records Retention and Disposition Schedule
+•	Terminal —> Converted the .pdf to .png using "convert -density 300 Records_Retention_and_Disposition_Schedule.pdf output.png" —> Using 'kull' I selected specific text regions in two out of my four .pngs —> Downloaded the .uzn file and moved it to the right directory —> Back to Terminal I got my results using "tesseract output-0.png stdout -psm 4" (did the same for output-1.png)   
