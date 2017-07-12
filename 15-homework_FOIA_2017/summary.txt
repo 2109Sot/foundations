@@ -1,0 +1,3 @@
+•	https://goo.gl/QFSwKC
+•	Records concerning Hillary Clinton’s elections fireworks show
+•	Terminal —> “pdf2txt.py FOIA_2017/FOIA_2017-CGFO-00433_Responsive_Documents.pdf -o FOIA.txt” —> Read .txt in Python (Jupyter Notebook) —> Regular Expressions for cleaning the file and extracting information.
